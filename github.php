@@ -47,3 +47,4 @@ curl_close($ch);
 /* ///Пишем запрос к github`у с включенными куками и от браузера "Mozilla"\\\ */
 if(strpos($result, "HTTP/1.1 500 Internal Server Error") === true) $result = false; // Проверяем ответ(не пришла ли ошибка скрипта)
 $userInfo = json_decode($result); // Превращаем ответ в класс
+}
