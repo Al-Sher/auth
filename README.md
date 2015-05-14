@@ -3,3 +3,4 @@
 * [ВКонтакте](https://github.com/Al-Sher/auth/blob/master/vk.php)
 * [Mail.ru](https://github.com/Al-Sher/auth/blob/master/mailru.php)
 * [github](https://github.com/Al-Sher/auth/blob/master/github.php)
+* [Steam](https://github.com/Al-Sher/auth/blob/master/steam.php)
